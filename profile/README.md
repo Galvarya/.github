@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/Galvan-SRL/.github/main/profile/banner.png" alt="Galvan — systems that hold their shape" width="100%">
+<img src="https://raw.githubusercontent.com/Galvarya/.github/main/profile/banner.png" alt="Galvarya — systems that hold their shape" width="100%">
 
-**Galvan** is a software studio in Romania working across education, distributed
+**Galvarya** is a software studio in Romania working across education, distributed
 systems and artificial intelligence. Different domains, one discipline: understand
 the problem completely, then build the smallest thing that solves it.
 
-**[galvan.dev](https://galvan.dev)**
+**[galvarya.com](https://galvarya.com)**
 
 ---
 
@@ -41,7 +41,7 @@ operator who could be compelled to hand anything over.
 
 `Rust` · `iroh` · `Loro` · `redb` · `Tauri` — Linux, macOS, Windows, Android
 
-*In development. Downloads will be linked from [galvan.dev](https://galvan.dev).*
+*In development. Downloads will be linked from [galvarya.com](https://galvarya.com).*
 
 ---
 
@@ -66,6 +66,6 @@ become unnecessary.
 Tell us what is not working — we reply to every message ourselves, usually within
 two working days.
 
-**[hello@galvan.dev](mailto:hello@galvan.dev)** · **[galvan.dev](https://galvan.dev)**
+**[hello@galvarya.com](mailto:hello@galvarya.com)** · **[galvarya.com](https://galvarya.com)**
 
-<sub>Galvan SRL · Romania</sub>
+<sub>Galvarya · Romania</sub>

@@ -1,11 +1,11 @@
 # Security policy
 
-This policy applies to every Galvan SRL repository and to the software we ship —
+This policy applies to every Galvarya repository and to the software we ship —
 including [Tomomi](https://tomomi.app) and Soki.
 
 ## Reporting a vulnerability
 
-Email **[hello@galvan.dev](mailto:hello@galvan.dev)** with `SECURITY` in the
+Email **[hello@galvarya.com](mailto:hello@galvarya.com)** with `SECURITY` in the
 subject line. Please do not open a public issue for a suspected vulnerability.
 
 Useful things to include, as far as you have them:

@@ -1,10 +1,10 @@
 # .github
 
-Organisation-level files for **Galvan SRL**.
+Organisation-level files for **Galvarya**.
 
 | Path | What it does |
 |---|---|
-| `profile/README.md` | Renders as the public organisation page at [github.com/Galvan-SRL](https://github.com/Galvan-SRL) |
+| `profile/README.md` | Renders as the public organisation page at [github.com/Galvarya](https://github.com/Galvarya) |
 | `profile/banner.png` | The banner on that page — 1600×400, generated from the mark's own geometry and the brand palette |
 | `SECURITY.md` | Default vulnerability-reporting policy, inherited by every repo in the org that does not define its own |
 
@@ -20,6 +20,6 @@ path, because relative image paths do not resolve reliably when GitHub renders t
 profile outside the repository.
 
 Note that the profile is **public** while the organisation's product repositories
-are private, so the page links only to `galvan.dev` and `tomomi.app`. Do not add
+are private, so the page links only to `galvarya.com` and `tomomi.app`. Do not add
 repository links until the repository in question is public — they render as
 404s to anyone signed out.
